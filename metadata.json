@@ -1,0 +1,5 @@
+{
+  "name": "Teams StayActive Utility",
+  "description": "A productivity utility to simulate activity and prevent idle status detection.",
+  "requestFramePermissions": []
+}
